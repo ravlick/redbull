@@ -1,3 +1,3 @@
 # first_repo
-# my repo
+Paragraph 2
 My first repo
